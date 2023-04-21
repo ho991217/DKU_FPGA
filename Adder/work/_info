@@ -1,0 +1,137 @@
+m255
+K3
+13
+cModel Technology
+d\\Mac\Home\Desktop\Coding\FPGA\Example Circuit
+Efa_tb
+Z0 w1682051381
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 d\\Mac\Home\Desktop\Coding\FPGA\Adder
+Z6 8//Mac/Home/Desktop/Coding/FPGA/Adder/FA_TB.vhd
+Z7 F//Mac/Home/Desktop/Coding/FPGA/Adder/FA_TB.vhd
+l0
+L6
+V[^4P11>3gD<PhCJ3k0cU73
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1682051433.310000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/Coding/FPGA/Adder/FA_TB.vhd|
+Z11 !s107 //Mac/Home/Desktop/Coding/FPGA/Adder/FA_TB.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 Ajh1aF9?M0P`<a266NTcV3
+!i10b 1
+Ahb
+R1
+R2
+R3
+R4
+DEx4 work 5 fa_tb 0 22 [^4P11>3gD<PhCJ3k0cU73
+l25
+L9
+V8alMS`7YKX_o@9Afb0?mA1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 Im>j:k0Cz8:^:ATzK>QT;3
+!i10b 1
+Eha_tb
+Z14 w1682040501
+R5
+Z15 8//Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd
+Z16 F//Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd
+l0
+L2
+VNoG?ZN:?WIBB`XcXPJc9<3
+R8
+32
+Z17 !s108 1682040571.617000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd|
+Z19 !s107 //Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd|
+R12
+R13
+!s100 lD@kEGW7ZHPTbBecHNj`N1
+!i10b 1
+Ahb
+DEx4 work 5 ha_tb 0 22 NoG?ZN:?WIBB`XcXPJc9<3
+l20
+L5
+Vi5LY`UJ0S^zAWEFfooo^92
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 1bSz[mKQbK7z;Ze1@WoKD1
+!i10b 1
+Ehb_fa
+Z20 w1682050942
+R5
+Z21 8//Mac/Home/Desktop/Coding/FPGA/Adder/HB_FA.vhd
+Z22 F//Mac/Home/Desktop/Coding/FPGA/Adder/HB_FA.vhd
+l0
+L3
+Vi9o_0CmFM:Tc_`a@2AVf@1
+!s100 ?gZPO5A4R0c[4G6Qm=jOZ3
+R8
+32
+!i10b 1
+Z23 !s108 1682051433.435000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/Coding/FPGA/Adder/HB_FA.vhd|
+Z25 !s107 //Mac/Home/Desktop/Coding/FPGA/Adder/HB_FA.vhd|
+R12
+R13
+Ahb
+DEx4 work 5 hb_fa 0 22 i9o_0CmFM:Tc_`a@2AVf@1
+l23
+L11
+V5Z32DomWGN;bXk6Rb417?3
+!s100 U2GO8zh?YbPmBa<D`I]R42
+R8
+32
+!i10b 1
+R23
+R24
+R25
+R12
+R13
+Ehb_ha
+Z26 w1682039233
+R5
+Z27 8//Mac/Home/Desktop/Coding/FPGA/Adder/HB_HA.vhd
+Z28 F//Mac/Home/Desktop/Coding/FPGA/Adder/HB_HA.vhd
+l0
+L3
+Vjc9@k@g7<X0Xkik]FCogG0
+R8
+32
+Z29 !s108 1682040571.710000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/Coding/FPGA/Adder/HB_HA.vhd|
+Z31 !s107 //Mac/Home/Desktop/Coding/FPGA/Adder/HB_HA.vhd|
+R12
+R13
+!s100 G>T1;kzI1o[1N;V6hbnkd0
+!i10b 1
+Ahb
+DEx4 work 5 hb_ha 0 22 jc9@k@g7<X0Xkik]FCogG0
+l13
+L12
+VC1A[hQW@O_7feAP6<3UL92
+R8
+32
+R29
+R30
+R31
+R12
+R13
+!s100 JB8[_<aQ?^Xl]=CJ<h5Aa0
+!i10b 1

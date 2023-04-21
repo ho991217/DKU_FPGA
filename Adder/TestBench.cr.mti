@@ -1,0 +1,19 @@
+//Mac/Home/Desktop/Coding/FPGA/Adder/HB_HA.vhd {1 {vcom -work work -2002 -explicit //Mac/Home/Desktop/Coding/FPGA/Adder/HB_HA.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Compiling entity HB_HA
+-- Compiling architecture HB of HB_HA
+
+} {} {}} //Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd {2 {vcom -work work -2002 -explicit //Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Compiling entity HA_TB
+-- Compiling architecture HB of HA_TB
+** Warning: [4] //Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] //Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] //Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] //Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] //Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] //Mac/Home/Desktop/Coding/FPGA/Adder/HA_TB.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}}

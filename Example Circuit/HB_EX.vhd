@@ -1,0 +1,17 @@
+-- Example Circuit
+
+ENTITY HB_EX IS
+
+PORT (
+	A, B: IN BIT;
+	X: OUT BIT
+);
+
+END HB_EX;
+
+ARCHITECTURE HB OF HB_EX IS
+BEGIN
+
+X <= (A NAND (A NAND B)) NAND (B NAND (A NAND B));
+
+END HB;

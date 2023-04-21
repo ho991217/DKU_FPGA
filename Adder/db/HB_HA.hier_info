@@ -1,0 +1,9 @@
+|HB_HA
+A => process_0.IN0
+A => process_1.IN0
+B => process_0.IN1
+B => process_1.IN1
+S << process_0.DB_MAX_OUTPUT_PORT_TYPE
+C << process_1.DB_MAX_OUTPUT_PORT_TYPE
+
+

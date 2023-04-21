@@ -1,0 +1,33 @@
+-- TeetBench
+ENTITY HA_TB IS
+END HA_TB;
+
+ARCHITECTURE HB OF HA_TB IS
+
+	COMPONENT HB_HA IS
+		PORT (
+			A, B: IN BIT;
+			S, C: OUT BIT
+		);
+
+	END COMPONENT;
+
+	SIGNAL A: BIT := '0';
+	SIGNAL B: BIT := '0';
+	SIGNAL S: BIT := '0';
+	SIGNAL C: BIT := '0';
+
+	BEGIN
+
+	A <= '0', '1' AFTER 100NS, '0' AFTER 200NS, '1' AFTER 300NS;
+	B <= '0', '0' AFTER 100NS, '1' AFTER 200NS, '1' AFTER 300NS;
+
+	U1:HB_HA
+	PORT MAP(
+		A=>A,
+		B=>B,
+		S=>S,
+		C=>C
+	);
+
+END HB;

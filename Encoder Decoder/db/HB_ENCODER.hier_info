@@ -1,0 +1,38 @@
+|HB_ENCODER
+I[0] => Mux0.IN263
+I[0] => Mux1.IN263
+I[0] => Mux2.IN263
+I[0] => Mux3.IN263
+I[1] => Mux0.IN262
+I[1] => Mux1.IN262
+I[1] => Mux2.IN262
+I[1] => Mux3.IN262
+I[2] => Mux0.IN261
+I[2] => Mux1.IN261
+I[2] => Mux2.IN261
+I[2] => Mux3.IN261
+I[3] => Mux0.IN260
+I[3] => Mux1.IN260
+I[3] => Mux2.IN260
+I[3] => Mux3.IN260
+I[4] => Mux0.IN259
+I[4] => Mux1.IN259
+I[4] => Mux2.IN259
+I[4] => Mux3.IN259
+I[5] => Mux0.IN258
+I[5] => Mux1.IN258
+I[5] => Mux2.IN258
+I[5] => Mux3.IN258
+I[6] => Mux0.IN257
+I[6] => Mux1.IN257
+I[6] => Mux2.IN257
+I[6] => Mux3.IN257
+I[7] => Mux0.IN256
+I[7] => Mux1.IN256
+I[7] => Mux2.IN256
+I[7] => Mux3.IN256
+O[0] << O[0]$latch.DB_MAX_OUTPUT_PORT_TYPE
+O[1] << O[1]$latch.DB_MAX_OUTPUT_PORT_TYPE
+O[2] << O[2]$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+
